@@ -1,0 +1,17 @@
+leftnav:
+- identifier: fe277d39-2f7a-481c-2560-e8141ccc9a95
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 82cbb357-deab-ff02-b193-e8aaa9f613a4
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: e5f53240-de03-08ce-bf8f-a9b8873390ea
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 30
+- identifier: 10b3675e-0a49-2e25-a3f6-60fe59ff335e
+  name: Lab Exercises
+  pageRef: /pages/lab-exercises
+  weight: 40
